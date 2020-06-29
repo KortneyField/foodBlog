@@ -8,6 +8,7 @@
 }
 */
 
+
 .logo{
     display: block;
     margin-left: auto;
@@ -15,3 +16,37 @@
     width: 50%;
 }
 
+.postContainer{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 2em;
+    gap: 30px 30px;
+}
+
+.card {
+    box-shadow: 0 8px 24px 0px rgba(34, 202, 194, 0.5);
+    transition: 0.3s;
+    width: 100%;
+    /*height: 50%;*/
+    border-radius: 5%;
+    text-align: center;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(253,172,185,1.2);
+  }
+  
+  .container {
+    padding: 16px;
+    margin-bottom: 1em;
+  }
+
+  h4{
+    font-size:3vw;
+  }
+
+  p{
+    font-size:1.4vw;
+  }

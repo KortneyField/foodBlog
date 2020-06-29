@@ -17,6 +17,37 @@ div{
 }
 
 .smallImage{
-    height: 100%;
     width: 100%;
+}
+
+.postImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+}
+
+.postWrapper2{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-gap: 1em;
+    /*grid-auto-rows: 100px;*/
+    grid-auto-rows: minmax(100px, auto);
+    padding: 2em;
+    margin: 2em;
+    border: #333 3px solid;
+}
+
+.steps{
+    display: grid;
+    grid-template-columns: 5% 95%;
+    height: min-content;
+    /*border: #333 1px solid;*/
+}
+
+h2{
+    color: lightcoral;
+    font-size:4vw;
+    font-style: italic;
 }
