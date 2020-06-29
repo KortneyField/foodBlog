@@ -1,0 +1,42 @@
+.fa {
+    padding: 10px;
+    font-size: 5px;
+    width: 12px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #717C8A;
+    color: #D3FFFC;
+}
+
+.fa-twitter {
+background: #717C8A;
+color: #D3FFFC;
+}
+
+.fa-instagram {
+background: #717C8A;
+color: #D3FFFC;
+}
+
+.fa-pinterest {
+background: #717C8A;
+color: #D3FFFC;
+}
+
+.fa-youtube {
+background: #717C8A;
+color: #D3FFFC;
+}
+
+.socialNav {
+    display: flex;
+    justify-content: center;
+}
