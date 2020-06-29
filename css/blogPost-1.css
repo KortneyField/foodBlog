@@ -1,0 +1,30 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 30% 60%;
+    gap: 30px 30px;
+}
+
+.logo{
+    width: 50%;
+}
+.imgItem {
+    width: 80%;
+    /*height: 80%;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid lightpink;
+}
+
+h1{
+    color: lightcoral;
+    font-family: URW Chancery L, cursive;
+    font-size:4vw;
+    text-shadow: 4px rgb(106 81 52);
+}
+
+p{
+    font-size:2vw;
+    margin-left: 20;
+}
+  

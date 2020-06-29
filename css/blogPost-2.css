@@ -1,0 +1,22 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1em;
+    /*grid-auto-rows: 100px;*/
+    grid-auto-rows: minmax(100px, auto);
+}
+
+.wrapper>
+div{
+    background:lightgray;
+    padding: 1em;
+}
+
+.wrapper > div:nth-child(odd){
+    background: lightpink;
+}
+
+.smallImage{
+    height: 100%;
+    width: 100%;
+}
