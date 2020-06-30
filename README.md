@@ -1,9 +1,9 @@
-Project:    Personal Blog
-Instatute:  Udacity
-Program:    Front End Web Development 
-Languages:  HTML, CSS
+**Project:**    Personal Blog\
+**Instatute:**  Udacity\
+**Program:**    Front End Web Development\ 
+**Languages:**  HTML, CSS\
 
-Title: Personal Food Blog - Kortney's Kitchen
+**Title:** *Personal Food Blog - Kortney's Kitchen*
 
 Sources I used to help recreate content (reciepes, pictures, bio): 
   https://downshiftology.com/recipes/zucchini-noodle-spaghetti-bolognese/
