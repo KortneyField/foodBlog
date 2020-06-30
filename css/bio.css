@@ -1,0 +1,17 @@
+
+.roundImg {
+    border-radius: 50%;
+    height: 30%;
+    width: 15%;
+    border: solid 2px silver;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.p2 {
+    margin-left: 10em;
+    margin-right: 10em;
+}
