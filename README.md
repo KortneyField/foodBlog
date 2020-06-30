@@ -9,6 +9,11 @@ https://kortneyfield.github.io/foodBlog/
 
 ![46td47](https://user-images.githubusercontent.com/44532353/86146961-72c09e00-babe-11ea-930a-7fd221eb11c4.gif)
 
+\
+\
+\
+\
+\
 Sources I used to help recreate content (reciepes, pictures, bio):\
 - https://downshiftology.com/recipes/zucchini-noodle-spaghetti-bolognese/
 - http://www.peanutbutterandfitness.com/meal-prep-week-of-june-29th-2020/
