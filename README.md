@@ -2,7 +2,7 @@
 
 **Project:** Personal Blog\
 **Instatute:** Udacity\
-**Program:** Front End Web Development\
+**Program:** Front End Web Development Nano Degree\
 **Languages:** HTML, CSS
 
 https://kortneyfield.github.io/foodBlog/
