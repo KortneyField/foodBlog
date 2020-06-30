@@ -1,7 +1,7 @@
-**Project:**    Personal Blog\
-**Instatute:**  Udacity\
-**Program:**    Front End Web Development\ 
-**Languages:**  HTML, CSS\
+**Project:** Personal Blog\
+**Instatute:** Udacity\
+**Program:** Front End Web Development\ 
+**Languages:** HTML, CSS\
 
 **Title:** *Personal Food Blog - Kortney's Kitchen*
 
