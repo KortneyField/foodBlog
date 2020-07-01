@@ -51,3 +51,20 @@ h2{
     font-size:4vw;
     font-style: italic;
 }
+
+
+
+.whiteSpace{
+    margin: 40px;
+}
+
+h3{
+    /*text-align: center;*/
+    color: lightseagreen;
+    padding-left: 4em;
+}
+
+
+span{
+    text-align: right;
+}
