@@ -12,6 +12,9 @@
 }
 
 .p2 {
+    display: flex;
+    justify-content: center;
+    font-size:2vw;
     margin-left: 10em;
     margin-right: 10em;
 }
