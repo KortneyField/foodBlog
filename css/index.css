@@ -21,7 +21,7 @@
     display: grid;
     align-items: center;
     justify-content: center;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     margin: 2em;
     gap: 30px 30px;
 }
@@ -95,3 +95,27 @@
     background-color: whitesmoke;
     color: white;
   }
+
+  @media(min-width:500px){
+    .postContainer{
+      display: grid;
+      align-items: center;
+      justify-content: center;
+      grid-template-columns: 1fr 1fr 1fr;
+      margin: 2em;
+      gap: 30px 30px;
+      }
+  }
+
+  @media(min-width:700px){
+    .postContainer{
+      display: grid;
+      align-items: center;
+      justify-content: center;
+      grid-template-columns: 1fr 1fr;
+      margin: 2em;
+      gap: 30px 30px;
+      }
+  }
+
+}
